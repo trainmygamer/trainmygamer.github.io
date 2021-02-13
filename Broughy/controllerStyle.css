@@ -1,5 +1,5 @@
 .xbox.white {
-    background: url(base-white.png);
+    background: url(https://trainmygamer.github.io/Broughy/base-white.png);
 }
 
 .xbox.disconnected {
@@ -13,7 +13,7 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(trigger.png);
+    background: url(https://trainmygamer.github.io/Broughy/trigger.png);
     opacity: 0;
 }
 
@@ -32,13 +32,13 @@
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper.png);
+    background: url(https://trainmygamer.github.io/Broughy/bumper.png);
     opacity: 0;
 }
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant.png);
+    background: url(https://trainmygamer.github.io/Broughy/quadrant.png);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -47,7 +47,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-select.png);
+    background: url(https://trainmygamer.github.io/Broughy/start-select.png);
     width: 33px !important;
     height: 33px !important;
     opacity: 0;
@@ -68,7 +68,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(sticks.png);
+    background: url(https://trainmygamer.github.io/Broughy/sticks.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
@@ -76,7 +76,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(abxy.png);
+    background: url(https://trainmygamer.github.io/Broughy/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -96,7 +96,7 @@
 }
 
 .xbox .face {
-    background: url(dpad.png);
+    background: url(https://trainmygamer.github.io/Broughy/dpad.png);
     position: absolute;
     opacity: 0;
 }
